@@ -37,5 +37,3 @@ You are required to complete the following functions in 'layered_model.py'. Your
 ### Locally
 1. You can test your code locally by installing and running `pytest` (`pip install pytest` or `conda install pytest`).
 2. Run the tests using the command `pytest` in your terminal. This will show the status of each test and any errors that occurred.
-
-Good luck!
